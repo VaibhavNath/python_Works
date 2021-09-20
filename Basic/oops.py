@@ -12,7 +12,8 @@ Employee.company='lens'  #changes the value of methods in class
 print(Sam.company)
 
 Sam.company='youtube'   #local declaration of company
-
 print(Sam.company)
+
 print(Sam.salary)
+
 print(Sam.id)
