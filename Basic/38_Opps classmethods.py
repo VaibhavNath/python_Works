@@ -11,6 +11,7 @@ class Employee:
 
 e=Employee()
 print(e.salary)
+print(Employee.salary)
 e.changeSalary(455)               
 print(e.salary)
 print(Employee.salary)         #changes the class attribute

@@ -8,7 +8,8 @@ class Lancer:
 
 class Programmer(Employee,Lancer):
     name='vaibhav'
-
+    eCode=105214
+    
 p=Programmer()
 print(p.name)
 print(p.eCode)

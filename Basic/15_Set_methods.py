@@ -1,4 +1,5 @@
 a={}   #retuns empty dict not empty set
+print(type(a))
 
 b=set()  #returns an empty set
 print(type(b))

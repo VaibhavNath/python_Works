@@ -1,4 +1,4 @@
-# f=open('another.txt','w')    #creates a file with name another.txt if the file doesnot exist 
+# f=open('another.txt','w')    #creates a file with name another.txt if the file does not exists 
 # f.write('please write again in file')   #creates file with this line written in file.  
 # f.close()
 

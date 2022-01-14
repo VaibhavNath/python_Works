@@ -23,3 +23,5 @@ i=0
 while i<len(a):
     print(a[i])
     i+=1
+for k in range(len(a)):
+    print(a[k])

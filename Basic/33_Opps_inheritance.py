@@ -19,3 +19,6 @@ a.showDetails()
 p=Programmer()
 p.showDetails()
 # print(p.company())
+p.getLanguage()
+Programmer.getLanguage='c'
+print(p.getLanguage)
